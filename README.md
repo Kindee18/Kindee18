@@ -49,12 +49,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KindsonEgbule&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kindee18&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=KindsonEgbule&theme=radical" alt="GitHub Streaks" />
+  <img src="https://streak-stats.demolab.com/?user=Kindee18&theme=radical" alt="GitHub Streaks" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KindsonEgbule&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kindee18&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 ---
 
