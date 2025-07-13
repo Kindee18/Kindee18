@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Cloud+Engineer+in+Training;Linux+Lover+%7C+DevOps+Student;Always+Automating+Something;Learning+n8n%2C+Terraform%2C+CI%2FCD" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Kindson Egbule</h1>
 <h3 align="center">Cloud Engineer in Training | AltSchool Africa | Passionate about DevOps & Automation</h3>
 
@@ -56,6 +61,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kindee18&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
