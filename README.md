@@ -62,7 +62,7 @@
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kindson-egbule-6b5768308)
-[![Twitter](https://img.shields.io/badge/x-%231DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://(https://x.com/n_kindson))
+[![x](https://img.shields.io/badge/x-%231DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://(https://x.com/n_kindson))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kindsonegbule18@gmail.com)
 
 ---
