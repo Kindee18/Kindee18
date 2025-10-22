@@ -42,15 +42,6 @@
 
 ---
 
-### 📘 Current Projects
-
-- 🧠 **n8n AI Agent** — Automates tasks to help me learn DevOps faster
-- 📦 **Linux Practice Repo** — Logging and documenting all commands I learn
-- 📂 **Cloud Engineering Portfolio** — Coming soon (includes infrastructure examples)
-- 📌 **GitHub Learning Series** — Notes and examples from my GitHub Student Pack exploration
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -70,16 +61,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kindson-egbule-6b5768308)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/n_kindson)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kindsonegbule18@gmail.com)
-
----
-
-### 📚 What I'm Working On This Month
-
-- [ ] Finish n8n automation for learning assistant  
-- [ ] Document and upload Linux terminal practice  
-- [ ] Set up personal website or portfolio (static hosting on GitHub Pages or Netlify)  
-- [ ] Build first Terraform infrastructure setup  
-- [ ] Create a few beginner-friendly open source contributions  
 
 ---
 
