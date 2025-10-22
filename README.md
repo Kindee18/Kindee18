@@ -5,7 +5,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Kindson Egbule</h1>
+<h1 align="center">Hi 👋, I'm Kindson Nathaniel Egbule</h1>
 <h3 align="center">Cloud Engineer in Training | AltSchool Africa | Passionate about DevOps & Automation</h3>
 
 ---
