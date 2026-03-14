@@ -1,44 +1,69 @@
 # Hi 👋, I'm Kindson Nathaniel Egbule
 
-### Cloud Engineer | AltSchool Africa | Passionate about DevOps & Automation
+### ☁️ Cloud & DevOps Engineer | Aspiring SRE
+**Passionate about building scalable, secure, and automated cloud systems.**
 
 ---
 
-## 🚀 Featured Project: Project Bedrock
+## 🏗️ Featured Projects
+
+### 🚀 [Project Bedrock](https://github.com/Kindee18/project-bedrock)
 **InnovateMart's Inaugural EKS Deployment**
+*Multi-service retail application deployed on a production-grade AWS environment.*
+- **Tech**: `AWS EKS (v1.34)`, `Terraform`, `Helm`, `RDS`, `ALB`, `Lambda`
+- **Key Outcome**: 100% automated IaC workflow with zero-downtime microservices and secure TLS termination.
 
-I recently led the deployment of a microservices-based retail store application on AWS EKS. This project involved building a production-ready, highly available environment from the ground up using modern DevOps practices.
+### ☸️ [MuchTodo](https://github.com/Kindee18/much-to-do-feature-full-stack)
+**Full-Stack Go & Kubernetes Deployment**
+*Containerized backend with multi-stage builds and automated K8s orchestration.*
+- **Tech**: `Golang`, `Docker`, `Kubernetes (Kind)`, `MongoDB`, `Ingress-NGINX`
+- **Key Outcome**: Optimized container footprints and automated local K8s deployment scripts for rapid development.
 
-- 🏗️ **Infrastructure as Code**: 100% automated provisioning using **Terraform** (S3/DynamoDB remote state).
-- ☸️ **Kubernetes on AWS**: Deployed an **EKS (v1.34)** cluster with optimized node groups.
-- 💾 **Managed Persistence**: Migrated microservices to **AWS RDS (MySQL & PostgreSQL)** and **DynamoDB**.
-- 🌐 **Advanced Networking**: Configured **ALB Ingress Controller** with TLS termination for secure access.
-- ⚡ **Serverless Integration**: Built event-driven image processing using **S3 & Lambda**.
-- 🔄 **CI/CD**: Established robust **GitHub Actions** pipelines for automated IaC and app deployments.
+### 📐 [StartTech Infrastructure](https://github.com/Kindee18/StartTech-Infra-Kindson-1148)
+**Scalable AWS Architecture as Code**
+*A high-availability enterprise architecture following AWS Well-Architected principles.*
+- **Tech**: `AWS (ASG, ALB, ElastiCache, CloudFront)`, `Terraform`, `GitHub OIDC`
+- **Key Outcome**: Secure OIDC integration for passwordless CI/CD and multi-AZ resilience.
 
-[Check out the Repository](https://github.com/Kindee18/project-bedrock)
+### 🤖 [Ansible Infrastructure Automation](https://github.com/Kindee18/my-ansible-project)
+**Automated Configuration Management**
+*Push-button deployment of web infrastructure across EC2 and S3.*
+- **Tech**: `Ansible`, `NGINX`, `AWS EC2`, `AWS ALB`
+- **Key Outcome**: Streamlined configuration of multiple web servers with automated health checks and load balancing.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Technical Arsenal
 
-- **Cloud**: AWS (EC2, EKS, RDS, S3, Lambda, IAM, VPC)
-- **IaC**: Terraform
-- **CI/CD**: GitHub Actions
-- **Containers**: Kubernetes, Helm, Docker
-- **Monitoring**: CloudWatch
-- **Languages**: Python, HCL, Shell
+### **Cloud & Orchestration**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### **Infrastructure & Automation**
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### **Languages & Tools**
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
-![Kindson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kindee18&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kindee18&layout=compact&theme=radical)
+## 📊 GitHub Ecosystem
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kindee18&show_icons=true&theme=tokyonight&count_private=true" alt="Kindson's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kindee18&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/egbule-kindson-nathaniel-938814143/)
+- 🌐 [Personal Portfolio](https://github.com/Kindee18/my-portfolio)
 
 ---
-*"Learning how to build scalable and secure systems, one commit at a time."*
+*"Engineering the future of cloud, one automated deployment at a time."*
