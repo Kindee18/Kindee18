@@ -1,89 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Kindson Nathaniel Egbule
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Cloud+Engineer+in+Training;Linux+Lover+%7C+DevOps+Student;Always+Automating+Something;Learning+n8n%2C+Terraform%2C+CI%2FCD" />
-</p>
-
-
-<h1 align="center">Hi 👋, I'm Kindson Nathaniel Egbule</h1>
-<h3 align="center">Cloud Engineer in Training | AltSchool Africa | Passionate about DevOps & Automation</h3>
+### Cloud Engineer in Training | AltSchool Africa | Passionate about DevOps & Automation
 
 ---
 
-### 🧑‍💻 About Me
+## 🚀 Featured Project: Project Bedrock
+**InnovateMart's Inaugural EKS Deployment**
 
-- 🌱 I’m currently learning **Linux, DevOps, Cloud Infrastructure, and Automation**
-- 🧠 Currently enrolled at **AltSchool Africa - School of Cloud Engineering**
-- 💡 Exploring tools in the **GitHub Student Developer Pack** to accelerate my learning
-- 🔭 I’m building an AI assistant using **n8n** to help me become a better cloud engineer
-- 📌 Interested in **Infrastructure as Code (IaC), CI/CD, Docker, and scripting**
-- ⚡ Fun fact: I enjoy breaking things and fixing them twice as well 🚀
+I recently led the deployment of a microservices-based retail store application on AWS EKS. This project involved building a production-ready, highly available environment from the ground up using modern DevOps practices.
 
----
+- 🏗️ **Infrastructure as Code**: 100% automated provisioning using **Terraform** (S3/DynamoDB remote state).
+- ☸️ **Kubernetes on AWS**: Deployed an **EKS (v1.34)** cluster with optimized node groups.
+- 💾 **Managed Persistence**: Migrated microservices to **AWS RDS (MySQL & PostgreSQL)** and **DynamoDB**.
+- 🌐 **Advanced Networking**: Configured **ALB Ingress Controller** with TLS termination for secure access.
+- ⚡ **Serverless Integration**: Built event-driven image processing using **S3 & Lambda**.
+- 🔄 **CI/CD**: Established robust **GitHub Actions** pipelines for automated IaC and app deployments.
 
-### 💼 Skills & Tools
-
-#### ☁️ Cloud & DevOps
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-FF6D00?logo=n8n&logoColor=white&style=for-the-badge)
-
-#### 🛠️ Tools & IDEs
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![WSL](https://img.shields.io/badge/WSL-008080?style=for-the-badge&logo=windows&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&style=for-the-badge)
-
-#### 📦 Others
-![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
-![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge)
+[Check out the Repository](https://github.com/Kindee18/project-bedrock)
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kindee18&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=Kindee18&theme=radical" alt="GitHub Streaks" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kindee18&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kindee18&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- **Cloud**: AWS (EC2, EKS, RDS, S3, Lambda, IAM, VPC)
+- **IaC**: Terraform
+- **CI/CD**: GitHub Actions
+- **Containers**: Kubernetes, Helm, Docker
+- **Monitoring**: CloudWatch
+- **Languages**: Python, HCL, Shell
 
 ---
 
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kindson-egbule-6b5768308)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/n_kindson)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kindsonegbule18@gmail.com)
+## 📊 GitHub Stats
+![Kindson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kindee18&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kindee18&layout=compact&theme=radical)
 
 ---
 
-### 🧠 Motto
-> “Be curious. Automate the boring stuff. Break, fix, learn, repeat.”
+## 📫 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/egbule-kindson-nathaniel-938814143/)
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Cloud+Engineer+in+Training;Linux+Lover;Open+Source+Enthusiast;Always+Learning+Something+New" />
-</p>
-
-<!--
-**Kindee18/Kindee18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"Learning how to build scalable and secure systems, one commit at a time."*
