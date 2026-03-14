@@ -5,6 +5,13 @@
 
 ---
 
+## 📝 About Me
+I am a results-driven **Cloud Engineering student at AltSchool Africa** with a deep interest in **Site Reliability Engineering (SRE)** and high-availability systems. 
+
+My journey is fueled by a curiosity for how large-scale platforms maintain 99.9% uptime while shipping code at speed. I enjoy deconstructing complex infrastructure problems and rebuilding them as automated, resilient, and cost-effective solutions. Whether it's orchestrating Kubernetes clusters or automating provisioning with Terraform, I'm always looking for ways to make systems more "bulletproof."
+
+---
+
 ## 🏗️ Featured Projects
 
 ### 🚀 [Project Bedrock](https://github.com/Kindee18/project-bedrock)
