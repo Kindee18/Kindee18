@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kindson Nathaniel Egbule
 
-### Cloud Engineer in Training | AltSchool Africa | Passionate about DevOps & Automation
+### Cloud Engineer | AltSchool Africa | Passionate about DevOps & Automation
 
 ---
 
